@@ -15,6 +15,7 @@
 		0EC6B49D2580089000D8C076 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EC6B49B2580089000D8C076 /* LaunchScreen.storyboard */; };
 		0EC6B4A82580089100D8C076 /* AppleCountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC6B4A72580089100D8C076 /* AppleCountTests.swift */; };
 		0EC6B4B32580089100D8C076 /* AppleCountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC6B4B22580089100D8C076 /* AppleCountUITests.swift */; };
+		0EC6B4C425804DF300D8C076 /* DragImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC6B4C325804DF200D8C076 /* DragImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0EC6B4AE2580089100D8C076 /* AppleCountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleCountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EC6B4B22580089100D8C076 /* AppleCountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleCountUITests.swift; sourceTree = "<group>"; };
 		0EC6B4B42580089100D8C076 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EC6B4C325804DF200D8C076 /* DragImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				0EC6B4922580088D00D8C076 /* SceneDelegate.swift */,
 				0EC6B4942580088D00D8C076 /* ViewController.swift */,
 				0EC6B4962580088D00D8C076 /* Main.storyboard */,
+				0EC6B4C325804DF200D8C076 /* DragImageView.swift */,
 				0EC6B4992580089000D8C076 /* Assets.xcassets */,
 				0EC6B49B2580089000D8C076 /* LaunchScreen.storyboard */,
 				0EC6B49E2580089000D8C076 /* Info.plist */,
@@ -260,6 +263,7 @@
 			files = (
 				0EC6B4952580088D00D8C076 /* ViewController.swift in Sources */,
 				0EC6B4912580088D00D8C076 /* AppDelegate.swift in Sources */,
+				0EC6B4C425804DF300D8C076 /* DragImageView.swift in Sources */,
 				0EC6B4932580088D00D8C076 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
